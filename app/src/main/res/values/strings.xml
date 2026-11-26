@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SIM-KKG PAI</string>
+    <string name="app_subtitle">Sistem Informasi Manajemen KKG PAI</string>
+    <string name="nav_dashboard">Beranda</string>
+    <string name="nav_finance">Kas KKG</string>
+    <string name="nav_agenda">Agenda</string>
+    <string name="nav_letters">Surat</string>
+    <string name="nav_gallery">Galeri</string>
+    <string name="status_saved">Semua perubahan tersimpan otomatis</string>
+    <string name="status_saving">Menyimpan…</string>
+</resources>

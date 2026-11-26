@@ -1,0 +1,6 @@
+{
+  "name": "SIM-KKG PAI",
+  "description": "Sistem Informasi Manajemen Kelompok Kerja Guru Pendidikan Agama Islam (KKG PAI) dengan manajemen kas, agenda, generator surat resmi, galeri dokumentasi, dan auto-save.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
